@@ -1,4 +1,13 @@
 {
+    "name": "fapth/easy_browsing_selenoid",
+    "description": "This is for Using Selenoid easy",
+    "type": "library",
+        "authors": [
+       {
+           "name": "Niklas Neldner",
+           "email": "na@fapth.de"
+       }
+    ],
     "require": {
         "php-webdriver/webdriver": "^1.8"
     },
