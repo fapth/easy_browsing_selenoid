@@ -1,0 +1,11 @@
+LANG=EN
+I want Function list "EN"
+I go to "https://fapth.de"
+I make screenshot
+I maximize Window
+I click on Link "Info"
+I make screenshot
+I click on Link "HOME"
+I fill into field with name "query" the value "EasyBrowsingSelenoid"
+I click on class "fa-search" on Attribute "onclick" when it is "searchButton()"
+I make screenshot

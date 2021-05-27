@@ -1,0 +1,12 @@
+{
+    "require": {
+        "php-webdriver/webdriver": "^1.8"
+    },
+    "autoload": {
+        "classmap": [
+            "classes/EasyBrowsingSelenoid.php",
+            "classes/TextToFunction.php",
+            "classes/EasyBrowsingException.php"
+        ]
+    }
+}
