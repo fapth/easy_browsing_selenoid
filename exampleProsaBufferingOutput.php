@@ -27,4 +27,3 @@ try{
 }
 $I = null;
 die("\nende");
-//Bet90: http://213.239.199.50:4444/video/9d8f416f8d0a7702964394e4fecf5753.mp4
